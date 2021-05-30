@@ -1,0 +1,2 @@
+# shinchan-python
+This shinchan is made by the help of python language, python libraries, and python turtle graphics. ```Crayon Shin-chan (Japanese: クレヨンしんちゃん, Hepburn: Kureyon Shin-chan), also known as SHIN CHAN is a Japanese manga series written and illustrated by Yoshito Usui. It follows the adventures of the five-year-old Shinnosuke "Shin" Nohara and his parents, baby sister, dog, neighbours, and best friends and is set in Kasukabe, Saitama Prefecture, Japan.```
